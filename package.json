@@ -1,0 +1,19 @@
+{
+  "name": "npmdo",
+  "version": "0.0.1",
+  "description": "Easily execute functions from node modules",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluzi/npmdo.git"
+  },
+  "author": "Eliran Pe'er (eliran013@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluzi/npmdo/issues"
+  },
+  "homepage": "https://github.com/bluzi/npmdo#readme"
+}
